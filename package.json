@@ -1,0 +1,14 @@
+{
+  "name": "ab-web_bootstrap",
+  "version": "0.0.1",
+  "description": "AB Web - Bootstrap.",
+  "main": "index.js",
+  "scripts": {
+    "bower": "bower"
+  },
+  "author": "AllBlue Monkey <monkey@allblue.pl>",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "1.6.*"
+  }
+}

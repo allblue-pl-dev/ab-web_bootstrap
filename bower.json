@@ -1,0 +1,17 @@
+{
+  "name": "ab-web_bootstrap",
+  "description": "AB Web - Bootstrap.",
+  "main": "index.js",
+  "authors": [
+    "AllBlue Monkey <monkey@allblue.pl>"
+  ],
+  "license": "MIT",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "3.3.*"
+  }
+}
