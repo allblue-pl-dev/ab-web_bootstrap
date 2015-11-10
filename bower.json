@@ -1,7 +1,9 @@
 {
   "name": "ab-web_bootstrap",
   "description": "AB Web - Bootstrap.",
-  "ignore": [],
+  "ignore": [
+      ".git*"
+  ],
   "main": "index.js",
   "authors": [
     "AllBlue Monkey <monkey@allblue.pl>"
